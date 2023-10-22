@@ -1,6 +1,6 @@
-# inshort news ( NewAPI Website )
+# Inshort News ( NewAPI Website )
 
-Develop: https://inshort-news-nine.vercel.app/](https://inshort-news-nine.vercel.app/
+Develop: https://vercel.com/vishwajeet-singhs-projects/inshort-news
 
 This API is capable of fetching news contents from various sources as gathered by Inshorts app.
 
